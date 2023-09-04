@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MERN STACK.                            
 - 🕵️‍♀️I’m looking for job or any freelance work.
 - 🤔 I’m passionate about my coding .
+- 📫   Reach me on any of the platforms given above!
 
 Languages and Tools:
 <div>
