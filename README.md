@@ -1,6 +1,7 @@
 Hi there 👋 I'm Sakshi Bhende 
 
 Glad to see you hear!
+
 A passionate self-taught frontend web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 Here are some ideas to get you started:
@@ -15,9 +16,9 @@ Here are some ideas to get you started:
 👩‍💻 ABOUT ME:
 - 🔭 I’m currently working on my skill. 
 - 🌱 I’m currently learning MERN STACK.                            
-- 🕵️‍♀️I’m looking for job or any freelance work.
-- 🤔 I’m passionate about my coding .
-- 📫   Reach me on any of the platforms given above!
+- 🕵️‍♀️ I’m looking for job or any freelance work.
+- ❤️ Learning new technologies and applying them in the real-world is my passion.
+- 📫 Reach me on any of the platforms given above!
 
 Languages and Tools:
 <div>
@@ -35,7 +36,6 @@ Languages and Tools:
 
 Tools:
 <p>
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
@@ -49,5 +49,4 @@ Frameworks and Libraries:
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/node.js-00C58E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
