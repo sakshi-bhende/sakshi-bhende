@@ -1,4 +1,4 @@
-Hi there 👋 I'm Sakshi Bhende 
+## Hi there 👋 I'm Sakshi Bhende
 
 Glad to see you hear!
 
@@ -13,14 +13,14 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-👩‍💻 ABOUT ME:
+👩‍💻**ABOUT ME:**
 - 🔭 I’m currently working on my skill. 
 - 🌱 I’m currently learning MERN STACK.                            
 - 🕵️‍♀️ I’m looking for job or any freelance work.
 - ❤️ Learning new technologies and applying them in the real-world is my passion.
 - 📫 Reach me on any of the platforms given above!
 
-Languages and Tools:
+**Languages and Tools:**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -34,7 +34,7 @@ Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-Tools:
+**Tools:**
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
@@ -42,7 +42,7 @@ Tools:
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 </p>
 
-Frameworks and Libraries:
+**Frameworks and Libraries:**
 <p>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
